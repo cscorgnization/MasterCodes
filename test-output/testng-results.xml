@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-31T00:26:38 IST" name="Default suite" finished-at="2020-08-31T00:27:27 IST" duration-ms="48912">
+    <groups>
+    </groups>
+    <test started-at="2020-08-31T00:26:38 IST" name="Default test" finished-at="2020-08-31T00:27:27 IST" duration-ms="48912">
+      <class name="ExecuteTest.DailerTest">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:ExecuteTest.DailerTest@49139829]" started-at="2020-08-31T00:26:38 IST" name="Initialize" finished-at="2020-08-31T00:27:12 IST" duration-ms="33778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="ClickContact()[pri:0, instance:ExecuteTest.DailerTest@49139829]" started-at="2020-08-31T00:27:12 IST" name="ClickContact" finished-at="2020-08-31T00:27:25 IST" duration-ms="13357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickContact -->
+        <test-method is-config="true" signature="close()[pri:0, instance:ExecuteTest.DailerTest@49139829]" started-at="2020-08-31T00:27:25 IST" name="close" finished-at="2020-08-31T00:27:27 IST" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ExecuteTest.DailerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
