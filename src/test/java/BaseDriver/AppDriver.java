@@ -40,6 +40,7 @@ public class AppDriver
 	     public static ExtentHtmlReporter htmlreporter;
 	     public static ExtentReports extentreport;
 	     public static ExtentTest extenttest; 
+	     //add perfecto driver
 	     @BeforeTest
 	      public void Initialize() throws Exception {
 	    	 DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
